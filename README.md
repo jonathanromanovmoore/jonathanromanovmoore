@@ -1,4 +1,4 @@
-<img src="./images/UltimateStrands_1920x1200.jpg">
+﻿<img src="./images/UltimateStrands_1920x1200.jpg">
 <!--<img src="./images/691390605_2164731840988023_3433254016940775997_n.jpg">-->
 
   
@@ -8,8 +8,6 @@
 * [Microsoft Employee Login](https://docs.microsoft.com/en-us/dynamics/s-e/howto)
 
 * [Build Lab for Microsoft Employees and Partners](https://betawiki.net/wiki/Build_lab)
-
-* [VisualStudio Administators Handbook](./Subscriptions/Visual-Studio-Subscriptions-Administrator-Handbook.pdf)
 
 * [Charles Babbage Throws a Party](https://medium.com/@michaelswaine/charles-babbage-throws-a-party-e6abcef8fef1)
 
@@ -35,7 +33,7 @@
 
 * [Why Do Fortune 500 Companies Still Use Legacy Systems?](https://www.redpilllabs.com/blog/why-do-fortune-500-companies-still-use-legacy-systems)
 
-* [Contact Any Celebrity](https://contactanycelebrity.com/cac/)
+* [My Clio Award Confirmation Letter](./Clios/1441.pdf)
 
 <!--<p><a href="https://pro.imdb.com/name/nm16454040?ref_=wa_nv_pro">Jonathan Moore's IMDB Pro</a></p>
 
