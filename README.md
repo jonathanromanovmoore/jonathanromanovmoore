@@ -341,6 +341,7 @@ Copyright 2025 Monster.com and Career Builder.
 * [Computer History Source Code](https://computerhistory.org/playlists/source-code/)
 * [Spin Operating System](http://www-spin.cs.washington.edu/)
 * [UNIX Heritage Society](https://www.tuhs.org/)
+* [UNIX Migration Strategy to Windows](https://www.cygwin.com/)
 * [VAX VMS Software](https://www.bitsavers.org/pdf/dec/)
 * [Wallnut Creek Collection](https://archive.org/details/walnutcreekcdrom)
 * [Microsoft OpenJDK](https://www.microsoft.com/openjdk)
