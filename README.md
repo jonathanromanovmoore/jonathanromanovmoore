@@ -350,6 +350,7 @@ Copyright 2025 Monster.com and Career Builder.
 * [PTC MKSToolkit for DOS](https://winworldpc.com/product/mks-toolkit/41)
 * [Windows RTM and Code Name Betas](https://archive.org/details/full-windows-archive)
 * [Apple OSS Distributions](https://github.com/apple-oss-distributions)
+* [Apple Internals](https://mroi.github.io/apple-internals/)
 * [MacOS Forge](https://www.macosforge.org/)
 * [Macports compile maintainers to win32, link in Portfile](https://github.com/macports/)
 * [fsck.technology](https://fsck.technology/)
