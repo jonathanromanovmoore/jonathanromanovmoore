@@ -348,6 +348,7 @@ Copyright 2025 Monster.com and Career Builder.
 * [Maven Repository](https://repo.maven.apache.org/maven2/)
 * [OpenVMS Archive](https://www.digiater.nl/)
 * [SCO](http://www.sco.com/skunkware/)
+* [Keybase](https://keybase.io/)
 * [PTC MKSToolkit for DOS](https://winworldpc.com/product/mks-toolkit/41)
 * [Windows RTM and Code Name Betas](https://archive.org/details/full-windows-archive)
 * [Apple OSS Distributions](https://github.com/apple-oss-distributions)
