@@ -25,6 +25,8 @@
 
 * [The Rise and Fall of the Gold Standard in the United States](https://www.hillsdale.edu/educational-outreach/free-market-forum/2012-archive/the-rise-and-fall-of-the-gold-standard-in-the-united-states/)
 
+* [Inifinity](https://plato.stanford.edu/entries/infinity/)
+
 * [Cultural Capital and U.S. Education](https://www.ebsco.com/research-starters/education/cultural-capital-and-us-education)
 
 * [The US Consistution](https://constitutioncenter.org/the-constitution)
